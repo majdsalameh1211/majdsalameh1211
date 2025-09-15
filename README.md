@@ -129,7 +129,7 @@ Testing      ⚡ Unit Testing • Integration Testing • Automation
 
 ```mermaid
 mindmap
-  root((Majd's Tech Journey))
+  root((Majd's Tech Interests))
     Full-Stack Development
       Web Applications
       Mobile Apps

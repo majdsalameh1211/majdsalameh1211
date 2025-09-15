@@ -50,7 +50,7 @@ An AI-powered **lip-reading system** using deep learning and computer vision to 
 
 ---
 
-### [Social Network App](https://github.com/majdsalameh1211/social-network-app)
+### [Social Network App](https://github.com/majdsalameh1211/Networking)
 *(React, Next.js, Node.js, Express.js, MongoDB, Vercel)*  
 A **real-time web app** with chat, notifications, and secure authentication.  
 - Designed scalable backend APIs and deployed to the cloud.  
@@ -58,7 +58,7 @@ A **real-time web app** with chat, notifications, and secure authentication.
 
 ---
 
-### [WhatsApp CRM Chatbot](https://github.com/majdsalameh1211/whatsapp-crm-bot)
+### [WhatsApp CRM Chatbot](https://github.com/majdsalameh1211/WhatsApp-ChatBot-JS-and-GreenAPI-)
 *(Node.js, Green API, Google Sheets API, GCP)*  
 A **cost-efficient CRM chatbot** for scheduling and client management.  
 - Integrated Google Sheets for **real-time data logging**.  
@@ -66,7 +66,7 @@ A **cost-efficient CRM chatbot** for scheduling and client management.
 
 ---
 
-### [Children's Book App](https://github.com/majdsalameh1211/flutter-book-app)
+### [Children's Book App](https://github.com/majdsalameh1211/Android_Course)
 *(Flutter, Firebase)*  
 A **mobile app** for browsing, uploading, and downloading children’s books.  
 - Integrated **Firebase backend** for real-time data storage and user authentication.  
@@ -74,7 +74,7 @@ A **mobile app** for browsing, uploading, and downloading children’s books.
 
 ---
 
-### [Park Management System](https://github.com/majdsalameh1211/park-management-system)
+### [Park Management System](https://github.com/majdsalameh1211/GoNature)
 *(Java, JavaFX, MySQL)*  
 A **desktop application** for scheduling and reservations.  
 - Includes **unit and integration testing** using black-box and white-box techniques.  
